@@ -59,7 +59,7 @@ tags:
 
 ### 了解更多？
 
-[浅析数值-动画器-菜单](https://vrc.yexca.net/archives/119/)
+[浅析数值-动画器-菜单](/archives/119)
 
 ## 三、参考资料
 

@@ -89,7 +89,7 @@ tags:
 
 ## Playable Layers
 
-参考：[动画层 (Playable Layers) 简介](https://vrc.yexca.net/archives/44/)
+参考：[动画层 (Playable Layers) 简介](/archives/44)
 
 ## Lower Body
 
@@ -101,9 +101,7 @@ tags:
 
 ## Expressions
 
-添加参考：[动画层 (Playable Layers) 简介](https://vrc.yexca.net/archives/44/)
-
-官方数值：[动画层 (Playable Layers) 简介](https://vrc.yexca.net/archives/44/)
+添加参考与官方数值：[动画层 (Playable Layers) 简介](/archives/44)
 
 ## Colliders
 
@@ -117,4 +115,4 @@ tags:
 
 此处设置的不仅是碰撞体积也是交互系统发送端的大小
 
-具体参考：[交互系统(Contacts)简介](https://vrc.yexca.net/archives/172/)
+具体参考：[交互系统(Contacts)简介](/archives/172)

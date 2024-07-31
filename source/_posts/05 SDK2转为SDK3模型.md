@@ -1,6 +1,6 @@
 ---
 title: SDK2转为SDK3模型
-permalink: /archives/29
+permalink: /archives/37
 date: 2022-04-18 23:42:56
 categories:
     - 上传模型
@@ -32,6 +32,6 @@ tags:
 
 ## 四、上传
 
-上传参考[成品模型上传第四步](https://vrc.yexca.net/archives/19/)
+上传参考[成品模型上传第四步](/archives/19)
 
 关于”VRC Avatar Descriptor“其他部分将在后续文章描述

@@ -9,7 +9,7 @@ tags:
 
 ## 一、MMD模型导入Unity
 
-[上篇文章](https://vrc.yexca.net/archives/29/)讲述了MMD模型转换为FBX，现在将MMD模型所有的文件都导入Unity
+[上篇文章](/archives/29)讲述了MMD模型转换为FBX，现在将MMD模型所有的文件都导入Unity
 
 ## 二、MMD模型适配
 
@@ -35,7 +35,7 @@ tags:
 
 ### 2）添加”Viseme“
 
-如果未在Blend设置请忽视(即[MMD模型转换为FBX第三步](https://vrc.yexca.net/archives/29/)未做)，请看 *第四步* 或直接上传
+如果未在Blend设置请忽视(即[MMD模型转换为FBX第三步](/archives/29)未做)，请看 *第四步* 或直接上传
 
 ”VRC Avatar Descriptor“第二个为”LipSync“，”Mode“选择”Viseme Blend Shape“，左方将”Body“拖入”Face Mesh“会自动识别
 
@@ -92,6 +92,6 @@ Inert      惰性的
 
 ## 五、上传
 
-上传参考[成品模型上传第四步](https://vrc.yexca.net/archives/19)
+上传参考[成品模型上传第四步](/archives/19)
 
 关于”VRC Avatar Descriptor“其他部分将在后续文章描述
