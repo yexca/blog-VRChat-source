@@ -11,7 +11,7 @@ enable_headroom: false # 滚动时是否自动折叠顶栏
 # 顶栏
 toolbar_icon: '' # 顶栏图标图片地址，留空则不显示
 toolbar_icon_link: '' # 顶栏图标链接，点击时跳转
-toolbar_title: 'yexca - VRChat Blog' # 顶栏标题，留空则跟随博客标题
+toolbar_title: 'VRChat Blog' # 顶栏标题，留空则跟随博客标题
 toolbar_menu: # 顶栏菜单，支持二级菜单
   大纲: /start
   历史背景: /background
@@ -22,8 +22,8 @@ toolbar_menu: # 顶栏菜单，支持二级菜单
 #    归档: /archives
 
 # Banner
-banner_title: '' # Banner 标题，留空则跟随博客标题
-enable_banner_title_typing_effect: false # 是否启用 Banner 打字效果
+banner_title: 'Welcome!' # Banner 标题，留空则跟随博客标题
+enable_banner_title_typing_effect: true # 是否启用 Banner 打字效果
 theme.banner_typing_effect_interval: 100 # Banner 打字间隔时长，单位 ms/字
 banner_subtitle: '' # Banner 子标题，留空则不显示
 banner_background_url: '' # Banner 背景图，留空则不显示
@@ -31,35 +31,50 @@ banner_background_hide_shapes: false # 是否隐藏 Banner 背景圆形
 banner_background_color_type: 'shape-primary' # Banner 渐变样式，Banner 背景图会覆盖该选项，可选值: shape-primary, shape-default, shape-dark, bg-gradient-success, bg-gradient-info, bg-gradient-warning, bg-gradient-danger
 
 # 侧栏
-sidebar_banner_title: '' # 侧栏标题，留空则跟随博客标题
+sidebar_banner_title: 'VRChat Blog' # 侧栏标题，留空则跟随博客标题
 sidebar_banner_subtitle: '' # 侧栏子标题，留空则不显示，设为 --hitokoto-- 调用一言
-sidebar_announcement: '' # 侧栏公告，留空则不显示
+sidebar_announcement: '学业繁忙，不再更新维护，消息不会回复，请见谅' # 侧栏公告，留空则不显示
 leftbar_menu: # 侧栏顶部菜单，支持无限层级菜单嵌套
-  首页: /
-  归档: /archives
-  二级菜单:
-    三级菜单:
-      首页: /
+  大纲: /start
+  上传教程: 
+    上传准备: /archives/12
+    成品模型上传: /archives/19
+    MMD 模型转 FBX: /archives/29
+    MMD 模型/FBX 模型上传: /archives/33
+    SDK2 转 SDK3: /archives/37
+  动画层: 
+    简介: /archives/44
+    Locomotion 层: /archives/48
+    Action 层: /archives/53
+    FX 层简单物品开关: /archives/70
+    FX 层物体绑骨: /archives/75
+    FX 层换衣服: /archives/102
+    FX 层固定于世界的物品: /archives/105
+    FX 层 MMD 固定世界: /archives/108
+    综述: /archives/119
+  VRC 脚本: 
+    State Behaviors: /archives/135
+    自身跳 MMD: /archives/140
+    随机播放音乐: /archives/148
+    顺序播放音乐: /archives/273
+
 sidebar_auther_image: '/assets/img/auther.jpg' # 侧栏作者头像
 sidebar_auther_name: 'yexca' # 侧栏作者名，留空则跟随博客名
 leftbar_author_links: # 侧栏作者链接列表
-  aaa: /
-  bbb: /
-  ccc: /
+  My Blog: https://blog.yexca.net/
+  VRC Docs: https://vrchat.yexca.net/
 leftbar_friend_links: # 侧栏友链列表
-  aaa: /
-  bbb: /
-  ccc: /
+  Lit Link: https://lit.link/yexca
 show_headindex_number: false # 侧栏文章目录是否显示章节编号
 
 # 文章
 excerpt: true # 是否显示文章摘要，为 false 则显示全文
 first_image_as_thumbnail: false # 自动取文章第一张图为特色图片
-article_meta: time|categories|read|words|readingtime # 文章 Meta 信息列表，用竖线分隔开，可选: time 发布时间, edittime 编辑时间, categories 分类, read 阅读量，words 字数, readingtime 预计阅读时间
+article_meta: time|categories|words|readingtime # 文章 Meta 信息列表，用竖线分隔开，可选: time 发布时间, edittime 编辑时间, categories 分类, read 阅读量，words 字数, readingtime 预计阅读时间
 reading_speed_cn: 300 # 每分钟中文阅读字数，用于计算预计阅读时间
 reading_speed_en: 160 # 每分钟英文阅读单词数，用于计算预计阅读时间
 donate_qrcode_url: '' # 赞赏二维码地址，留空则不显示
-additional_content_after_post: '' # 文末追加信息，支持 HTML，留空则不显示
+additional_content_after_post: '本文章由 <a href="https://lit.link/yexca">yexca</a> 采用 <a style="text-decoration: underline" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_BLANK">知识共享署名 - 非商业性使用 - 相同方式共享 4.0 国际许可协议</a> 进行许可，转载请注明出处。</blockquote>' # 文末追加信息，支持 HTML，留空则不显示
 article_header_style: default # 文章内小标题样式，可选值: default, 1, 2
 
 # 背景

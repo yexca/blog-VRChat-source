@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Blog for VRChat
+title: yexca - VRChat Blog
 subtitle: ''
-description: ''
-keywords:
+description: 'VRChat 教程'
+keywords: 'VRChat 教程'
 author: yexca
 language: zh-cn
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://vrc.yexca.net
 permalink: archive/:id
 permalink_defaults:
 pretty_urls:
