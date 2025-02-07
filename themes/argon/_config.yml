@@ -11,7 +11,7 @@ enable_headroom: false # 滚动时是否自动折叠顶栏
 # 顶栏
 toolbar_icon: '' # 顶栏图标图片地址，留空则不显示
 toolbar_icon_link: '' # 顶栏图标链接，点击时跳转
-toolbar_title: 'VRChat Blog' # 顶栏标题，留空则跟随博客标题
+toolbar_title: 'VRChat 教程' # 顶栏标题，留空则跟随博客标题
 toolbar_menu: # 顶栏菜单，支持二级菜单
   教程大纲: /start
   历史背景: /background
@@ -31,7 +31,7 @@ banner_background_hide_shapes: false # 是否隐藏 Banner 背景圆形
 banner_background_color_type: 'shape-primary' # Banner 渐变样式，Banner 背景图会覆盖该选项，可选值: shape-primary, shape-default, shape-dark, bg-gradient-success, bg-gradient-info, bg-gradient-warning, bg-gradient-danger
 
 # 侧栏
-sidebar_banner_title: 'VRChat Blog' # 侧栏标题，留空则跟随博客标题
+sidebar_banner_title: "yexca'VRChat 教程" # 侧栏标题，留空则跟随博客标题
 sidebar_banner_subtitle: '' # 侧栏子标题，留空则不显示，设为 --hitokoto-- 调用一言
 sidebar_announcement: '学业繁忙，不再更新维护，消息不会回复，请见谅' # 侧栏公告，留空则不显示
 leftbar_menu: # 侧栏顶部菜单，支持无限层级菜单嵌套

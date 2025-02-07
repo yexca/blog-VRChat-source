@@ -3702,7 +3702,8 @@ html.darkmode .leftbar-banner{
 }
 
 html.darkmode .bg-white , html.darkmode .card , html.darkmode #footer{
-	background: #424242 !important;
+	background: rgba(42,42,42,0.8) !important;
+	backdrop-filter: blur(2px);
 }
 
 html.darkmode .modal-content{
