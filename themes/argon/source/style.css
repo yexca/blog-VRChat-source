@@ -267,6 +267,10 @@ html.use-big-shadow *.shadow-sm{
 .card{
 	border-radius: var(--card-radius);
 }
+.content-area{
+	z-index: -1;
+	position: relative;
+}
 /* 主题色适配 */
 .text-primary{
 	color: var(--themecolor) !important;
@@ -335,6 +339,7 @@ a.text-primary:focus , a.text-primary:hover {
 	width: 280px;
 	float: left;
 	margin-bottom: 25px;
+	overflow-y: visible;
 }
 #main{
 	padding: 0 20px;
@@ -616,10 +621,10 @@ body.leftbar-can-headroom.headroom---unpinned #navbar-main{
 	position: absolute;
 	left: calc(100% + 8px);
 	top: 0;
-	background: #fff;
+	background: rgba(255, 255, 255, 0.8);
 	width: max-content;
 	min-width: 150px;
-	z-index: 1;
+	z-index: 10;
 	height: unset;
 	border-radius: 3px;
 	padding: 6px 0;
@@ -753,7 +758,7 @@ body.leftbar-can-headroom.headroom---unpinned #leftbar_part2.sticky{
 }
 #leftbar_part2_inner{
 	max-height: calc(100vh - 110px);
-	overflow-y: auto;
+	overflow-y: visible;
 	padding: 10px;
 }
 #leftbar_part2_inner::-webkit-scrollbar{
@@ -3671,7 +3676,8 @@ html.darkmode ::-webkit-scrollbar-thumb{
 }
 
 html.darkmode .leftbar-menu-subitem {
-	background: #424242;
+	/* background: #424242; */
+	background-color: rgba(42,42,42,0.8);
 }
 html.darkmode .leftbar-menu-item > a{
 	color: #eee !important;
