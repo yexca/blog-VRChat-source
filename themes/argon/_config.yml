@@ -61,10 +61,12 @@ leftbar_menu: # 侧栏顶部菜单，支持无限层级菜单嵌套
 sidebar_auther_image: '/assets/img/auther.jpg' # 侧栏作者头像
 sidebar_auther_name: 'yexca' # 侧栏作者名，留空则跟随博客名
 leftbar_author_links: # 侧栏作者链接列表
-  My Blog: https://blog.yexca.net/
-  VRC Docs: https://vrchat.yexca.net/
+  Gtihub: https://github.com/yexca-VRChat
+  Source: https://github.com/yexca/vrchat-blog-source
 leftbar_friend_links: # 侧栏友链列表
-  Lit Link: https://lit.link/yexca
+  VRChat Docs: https://vrchat.yexca.net/
+  My Blog: https://blog.yexca.net/
+  # Lit Link: https://lit.link/yexca
 show_headindex_number: false # 侧栏文章目录是否显示章节编号
 
 # 文章
