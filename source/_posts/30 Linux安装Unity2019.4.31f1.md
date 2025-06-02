@@ -1,6 +1,6 @@
 ---
 title: Linux安装Unity2019.4.31f1
-permalink: /archives/286
+permalink: /archives/286.html
 date: 2022-08-17 20:21:56
 categories:
     - 其他教程

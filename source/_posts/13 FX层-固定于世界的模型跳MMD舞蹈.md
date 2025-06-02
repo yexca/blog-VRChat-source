@@ -1,6 +1,6 @@
 ---
 title: FX层-固定于世界的模型跳MMD舞蹈
-permalink: /archives/108
+permalink: /archives/108.html
 date: 2022-04-23 02:26:56
 categories:
     - 添加动画

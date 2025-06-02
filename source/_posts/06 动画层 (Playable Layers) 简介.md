@@ -1,6 +1,6 @@
 ---
 title: 动画层 (Playable Layers) 简介
-permalink: /archives/44
+permalink: /archives/44.html
 date: 2022-04-20 23:54:56
 categories:
     - 添加动画

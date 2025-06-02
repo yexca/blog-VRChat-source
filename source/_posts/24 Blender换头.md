@@ -1,6 +1,6 @@
 ---
 title: Blender换头
-permalink: /archives/274
+permalink: /archives/274.html
 date: 2022-06-28 19:06:56
 categories:
     - 其他教程

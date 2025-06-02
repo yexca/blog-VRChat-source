@@ -1,6 +1,6 @@
 ---
 title: SDK描述文件(VRC Avatar Descriptor)简介
-permalink: /archives/215
+permalink: /archives/215.html
 date: 2022-05-07 23:30:56
 categories:
     - 其他教程

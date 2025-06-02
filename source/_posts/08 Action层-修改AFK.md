@@ -1,6 +1,6 @@
 ---
 title: Action层-修改AFK
-permalink: /archives/53
+permalink: /archives/53.html
 date: 2022-04-21 00:47:56
 categories:
     - 添加动画

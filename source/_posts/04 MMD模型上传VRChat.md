@@ -1,6 +1,6 @@
 ---
 title: MMD模型上传VRChat
-permalink: /archives/33
+permalink: /archives/33.html
 date: 2022-04-18 07:42:56
 categories:
     - 上传模型

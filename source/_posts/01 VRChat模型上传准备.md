@@ -1,6 +1,6 @@
 ---
 title: VRChat模型上传准备
-permalink: /archives/12
+permalink: /archives/12.html
 date: 2022-04-18 01:45:56
 categories:
     - 上传模型

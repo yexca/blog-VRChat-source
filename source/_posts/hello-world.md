@@ -1,6 +1,6 @@
 ---
 title: Hello World！
-permalink: /archives/1
+permalink: /archives/1.html
 date: 2022-04-13 14:39:00
 categories:
     - default

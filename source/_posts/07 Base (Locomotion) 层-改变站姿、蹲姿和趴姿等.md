@@ -1,6 +1,6 @@
 ---
 title: Base (Locomotion) 层-改变站姿、蹲姿和趴姿等
-permalink: /archives/48
+permalink: /archives/48.html
 date: 2022-04-21 00:19:56
 categories:
     - 添加动画

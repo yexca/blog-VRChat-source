@@ -1,6 +1,6 @@
 ---
 title: 交互系统(Contacts)简介
-permalink: /archives/172
+permalink: /archives/172.html
 date: 2022-04-27 04:08:56
 categories:
     - 动骨交互

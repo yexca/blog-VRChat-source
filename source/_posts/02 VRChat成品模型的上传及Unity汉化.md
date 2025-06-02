@@ -1,6 +1,6 @@
 ---
 title: VRChat成品模型的上传及Unity汉化
-permalink: /archives/19
+permalink: /archives/19.html
 date: 2022-04-18 02:56:56
 categories:
     - 上传模型

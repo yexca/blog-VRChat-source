@@ -1,6 +1,6 @@
 ---
 title: VRC脚本(State Behaviors)简介
-permalink: /archives/135
+permalink: /archives/135.html
 date: 2022-04-24 00:16:56
 categories:
     - 使用脚本

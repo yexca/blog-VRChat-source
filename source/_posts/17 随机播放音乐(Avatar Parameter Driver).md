@@ -1,6 +1,6 @@
 ---
 title: 随机播放音乐(Avatar Parameter Driver)
-permalink: /archives/148
+permalink: /archives/148.html
 date: 2022-04-24 19:39:56
 categories:
     - 使用脚本

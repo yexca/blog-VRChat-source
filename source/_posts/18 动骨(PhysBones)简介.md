@@ -1,6 +1,6 @@
 ---
 title: 动骨(PhysBones)简介
-permalink: /archives/162
+permalink: /archives/162.html
 date: 2022-04-26 15:25:56
 categories:
     - 动骨交互

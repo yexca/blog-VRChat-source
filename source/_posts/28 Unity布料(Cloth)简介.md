@@ -1,6 +1,6 @@
 ---
 title: Unity布料(Cloth)简介
-permalink: /archives/281
+permalink: /archives/281.html
 date: 2022-08-01 15:24:56
 categories:
     - 其他教程

@@ -1,6 +1,6 @@
 ---
 title: SDK2转为SDK3模型
-permalink: /archives/37
+permalink: /archives/37.html
 date: 2022-04-18 23:42:56
 categories:
     - 上传模型

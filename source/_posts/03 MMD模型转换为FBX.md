@@ -1,6 +1,6 @@
 ---
 title: MMD模型转换为FBX
-permalink: /archives/29
+permalink: /archives/29.html
 date: 2022-04-18 03:40:56
 categories:
     - 上传模型

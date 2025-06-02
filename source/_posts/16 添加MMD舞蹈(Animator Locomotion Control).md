@@ -1,6 +1,6 @@
 ---
 title: 添加MMD舞蹈(Animator Locomotion Control)
-permalink: /archives/140
+permalink: /archives/140.html
 date: 2022-04-24 00:40:56
 categories:
     - 使用脚本
